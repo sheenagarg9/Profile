@@ -2,7 +2,7 @@
 I seek cutting-edge projects, innovation, and rapid growth opportunities. A collaborative team, positive culture, new challenges, and flexibility are also important. Excited to contribute skills to a startup that values innovation, empowers employees, and offers a dynamic work environment.<br>I am looking to collaborate on projects that involve Machine Learning, Big Data and Full Stack Web Development. Also a cybersecurity and cloud enthusiast. So let me know if you have any interesting topics to discuss over a cup of coffee.
 
 # That's Me!
-![image](https://github.com/sheenagarg9/sheenagarg9/assets/28904929/52b2a7a0-bc02-4c45-80cb-8093128990f6 =250x250)
+<img src="https://github.com/sheenagarg9/sheenagarg9/assets/28904929/52b2a7a0-bc02-4c45-80cb-8093128990f6" width="250" height="250")
 
 
 ## 🌐 Socials:
